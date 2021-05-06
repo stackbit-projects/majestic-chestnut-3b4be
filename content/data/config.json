@@ -2,7 +2,7 @@
     "title": "Stackbit Starter Theme",
     "path_prefix": "/",
     "header": {
-        "title": "this is the first site (:",
+        "title": "this is the first site (:     now lets change it!",
         "has_nav": true,
         "nav_links": [
             {
